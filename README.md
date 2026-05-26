@@ -42,7 +42,8 @@ To study the problem statement ,SRS document and draw the UML diagram of railway
 
 
 # Package Diagram:
-<img width="1051" height="651" alt="PackageDiagram1" src="https://github.com/user-attachments/assets/215310b8-cb62-42e6-934f-2727b8cb3320" />
+<img width="888" height="562" alt="image" src="https://github.com/user-attachments/assets/373da7a2-bdf0-4e39-9a89-fce11a71462e" />
+
 
 
 
