@@ -48,14 +48,15 @@ To study the problem statement ,SRS document and draw the UML diagram of railway
 
 
 # Communication Diagram:
+<img width="877" height="742" alt="image" src="https://github.com/user-attachments/assets/0b2b2128-2006-44cc-ab71-c30a4469b7fb" />
 
-<img width="926" height="801" alt="communication" src="https://github.com/user-attachments/assets/da5b1594-fad9-426d-94c0-91f7118e5cbb" />
 
 
 
 # Sequence Diagram:
 
-<img width="1212" height="892" alt="SequenceDiagram1" src="https://github.com/user-attachments/assets/9b5b41e8-286e-42ce-b017-ed2c70c6621f" />
+<img width="857" height="736" alt="image" src="https://github.com/user-attachments/assets/f644da90-72e5-4b94-b8ac-4ad9e786dfed" />
+
 
 
 
